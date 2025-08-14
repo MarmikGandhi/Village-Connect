@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Crop Insurance Scheme",
+    "description": "Provides financial support to farmers in the event of crop failure due to natural calamities, pests, or diseases.",
+    "category": "Agriculture"
+  },
+  {
+    "id": 2,
+    "title": "Rural Employment Guarantee",
+    "description": "Offers 100 days of guaranteed wage employment in a financial year to rural households.",
+    "category": "Employment"
+  },
+  {
+    "id": 3,
+    "title": "Subsidized Solar Pump",
+    "description": "Supports farmers with the cost of installing solar-powered irrigation pumps to promote clean energy and reduce electricity costs.",
+    "category": "Energy"
+  },
+  {
+    "id": 4,
+    "title": "Village Health Mission",
+    "description": "Provides basic healthcare, vaccination services, and maternal care through village health workers.",
+    "category": "Healthcare"
+  },
+  {
+    "id": 5,
+    "title": "Digital Literacy Program",
+    "description": "Empowers rural youth and women with basic digital skills to improve access to online education and government portals.",
+    "category": "Education"
+  },
+  {
+    "id": 6,
+    "title": "Irrigation Modernization",
+    "description": "Assists farmers with modern irrigation systems like drip and sprinkler systems to conserve water and increase yield.",
+    "category": "Agriculture"
+  },
+  {
+    "id": 7,
+    "title": "Self-Help Group (SHG) Support",
+    "description": "Provides micro-financing and entrepreneurial training to SHGs for income generation activities.",
+    "category": "Empowerment"
+  },
+  {
+    "id": 8,
+    "title": "Sanitation Awareness Drive",
+    "description": "Conducts cleanliness campaigns and provides subsidies for household toilets in rural areas.",
+    "category": "Public Welfare"
+  },
+  {
+    "id": 9,
+    "title": "Electrification of Remote Villages",
+    "description": "Extends electricity supply to remote and tribal areas using solar micro-grids and sustainable energy sources.",
+    "category": "Infrastructure"
+  },
+  {
+    "id": 10,
+    "title": "E-Market Link for Farmers",
+    "description": "Connects farmers directly to buyers through a digital platform, ensuring fair prices and reducing middlemen.",
+    "category": "Technology"
+  }
+]
