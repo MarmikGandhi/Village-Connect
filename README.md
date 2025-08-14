@@ -7,7 +7,6 @@ It allows users to **access services, share knowledge, and connect with others**
 
 ## 🚀 Features
 - Modern **React + Tailwind CSS** frontend
-- **Green-themed UI** for a fresh, clean look
 - Responsive navigation bar and pages
 - Service exploration and community connection tools
 - Simple, accessible design for all users
@@ -19,11 +18,6 @@ It allows users to **access services, share knowledge, and connect with others**
 - **Tailwind CSS** – Utility-first CSS framework for styling
 - **JavaScript (ES6+)**
 - **Git & GitHub** for version control
-
----
-
-## 📸 Preview
-![Home Page Screenshot](./screenshot.png)
 
 ---
 
@@ -65,7 +59,6 @@ The app will run at `http://localhost:3000`.
 
 ## 📜 Internship Information
 This project is developed as part of my **Frontend Developer Internship** at **Code Core Global**.  
-The primary goal is to enhance **UI/UX** skills while building responsive and functional web applications.
 
 ---
 
@@ -75,8 +68,17 @@ Feel free to fork the repo and submit pull requests.
 
 ---
 
+## 📬 Contact
+
+- Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
+- GitHub: [MarmikGandhi](https://github.com/MarmikGandhi)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi/)
+
+---
+
 ## 📄 License
 This project is open-source and available under the **MIT License**.
 
 ---
 "# Village-Connect" 
+
