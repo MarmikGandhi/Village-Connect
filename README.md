@@ -2,7 +2,7 @@
 
 VillageConnect is a responsive and user-friendly platform designed to bridge the gap between rural communities and digital resources.  
 It allows users to **access services, share knowledge, and connect with others**, fostering empowerment and growth.
-
+Link:[VillageConnect](https://village-connect-marmik.netlify.app/)
 ---
 
 ## 🚀 Features
@@ -81,4 +81,5 @@ This project is open-source and available under the **MIT License**.
 
 ---
 "# Village-Connect" 
+
 
